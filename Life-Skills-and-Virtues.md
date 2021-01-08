@@ -1,4 +1,4 @@
-## Life Skills
+### Life Skills
 - Critical Thinking - objectively analyze an issue before forming a judgment
 - Problem Solving
 - Public Speaking
@@ -11,7 +11,7 @@
 - Conflict Resolution - find a peaceful solution to a disagreement
 
 
-## Intellectual Virtues
+### Intellectual Virtues
 - Intellectual curiosity
 - Intellectual humility
 - Generosity of spirit
