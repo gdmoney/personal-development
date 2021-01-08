@@ -16,7 +16,7 @@
 - capacious - having a lot of space inside; roomy - e.g. capacious mind
 - vacuous - having or showing a lack of thought or intelligence - e.g. vacuous claim
 - parochial - having a limited or narrow outlook or scope
-- erudite - having or showing great knowledge - e.g erudite discussion
+- erudite - having or showing great knowledge - e.g. erudite discussion
 - profundity - deep insight; great depth of knowledge or thought
 - sanguine - optimistic or positive, especially in an apparently bad situation
 - demur - raise doubts or objections or show reluctance
