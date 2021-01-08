@@ -25,7 +25,6 @@
 - preserve the logical integrity of
 - intrinsic well-being
 - inherently good or bad
-
 - Non sequitur - conslusion or statement that doesn't logically follow
 - Equanimity - mental calmness, composure, and evenness of temper
 - Inscrutable - impossible to understand or interpret
