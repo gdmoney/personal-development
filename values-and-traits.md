@@ -17,7 +17,7 @@
 - **All-or-Nothing thinking** - seeing things as completely one way or the other
 - **Labeling** - thinking that because one thing is bad, all similar things are bad
 - **Jumping to conclusions** - guessing that something is bad without really knowing
-- **Blaming - ourselves or others unnecessarily**
+- **Blaming** - ourselves or others unnecessarily
 - **Pleasure chasing / Instant gratification**
 - **Material success**
 - **Popularity**
