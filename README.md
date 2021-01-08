@@ -15,6 +15,6 @@
 - **Simplicity:** pursuit of less but better instead of more
 - **Tidiness:** cleanliness and organization
 - **Accomplishment:** working hard, being productive, solving problems
-- **Personal growth:** continual improvement in all aspects- mind, body, soul
+- **Personal growth:** continual improvement in all aspects of life - mind, body, soul
 - **Social:** memorable experiences, close connections, loving relationships
 - **Contribution & Service:** helping and being good to others
