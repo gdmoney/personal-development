@@ -1,4 +1,4 @@
-## Good
+### Good
 - **Integrity** - do the right thing and stay true to your values
 - **Responsibility** - take ownership and be accountable for your actions
 - **Honesty** - be truthful
@@ -8,7 +8,7 @@
 - **Curiosity** - a strong desire to know or learn something
  
  
- ## Bad
+ ### Bad
  - **Exaggerating / Catastrophizing** - thinking that something is worse than it really is
  - **Focusing on the Bad / Negative Filtering** - seeing only the bad parts of things, instead of both positive and negative
  - **All-or-Nothing thinking** - seeing things as completely one way or the other
