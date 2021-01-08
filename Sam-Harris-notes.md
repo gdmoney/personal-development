@@ -1,23 +1,23 @@
 ### Vocabulary
-- Non sequitur - conslusion or statement that doesn't logically follow
-- Equanimity - mental calmness, composure, and evenness of temper
-- Inscrutable - impossible to understand or interpret
-- Parsimonious - stingy or frugal
-- Circumspect - wary and unwilling to take risks
-- Efficacy - the ability to produce a desired or intended result; success
-- Bespoke - custom
-- Confabulate - fabricate imaginary experiences as compensation for loss of memory
-- Conflate - combine two or more ideas into one
-- Denigrate - criticize unfairly; disparage
-- Dissuade - persuade not to do something
-- Capacious - having a lot of space inside; roomy (capacious mind)
-- Vacuous - having or showing a lack of thought or intelligence (vacuous claim)
-- Parochial - having a limited or narrow outlook or scope
-- Erudite - having or showing great knowledge (erudite discussion)
-- Profundity - deep insight; great depth of knowledge or thought
-- Sanguine - optimistic or positive, especially in an apparently bad situation
-- Demur - raise doubts or objections or show reluctance
-- Perniceous - having a harmful effect, especially in a gradual or subtle way
+- non sequitur - conslusion or statement that doesn't logically follow
+- equanimity - mental calmness, composure, and evenness of temper
+- inscrutable - impossible to understand or interpret
+- parsimonious - stingy or frugal
+- circumspect - wary and unwilling to take risks
+- efficacy - the ability to produce a desired or intended result; success
+- bespoke - custom
+- confabulate - fabricate imaginary experiences as compensation for loss of memory
+- conflate - combine two or more ideas into one
+- denigrate - criticize unfairly; disparage
+- dissuade - persuade not to do something
+- capacious - having a lot of space inside; roomy - e.g. capacious mind
+- vacuous - having or showing a lack of thought or intelligence - e.g. vacuous claim
+- parochial - having a limited or narrow outlook or scope
+- erudite - having or showing great knowledge - e.g erudite discussion
+- profundity - deep insight; great depth of knowledge or thought
+- sanguine - optimistic or positive, especially in an apparently bad situation
+- demur - raise doubts or objections or show reluctance
+- perniceous - having a harmful effect, especially in a gradual or subtle way
 
 
 ### Phrases
@@ -71,4 +71,4 @@
 - Richard Dawkins
 - Robin Hanson
 - Steven Pinker
- - Yuval Noah Harari
+- Yuval Noah Harari
