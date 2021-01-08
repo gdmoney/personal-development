@@ -5,12 +5,12 @@
 - long-term view
 - adversity, sacrifice, discipline
 - relentless action toward your goals
-- solidify your character > people will be drawn to you
+- solidify your character and people will be drawn to you
 - thoughts, beliefs, principles, purpose
 - vision, actions, mindset, habits
 - comprehension, persistence, intensity
 - personify the teaching
-- self-investment > self-respect
+- self-investment = self-respect
 - positive mindset
 - high level of accountability
 - prideful conduct
