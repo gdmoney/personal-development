@@ -11,10 +11,10 @@
 
 ### Happiness Factors
 - **Health:** sleep, diet, exercise, stress management
+- **Tranquility:** inner peace and equanimity
 - **Simplicity:** pursuit of less but better instead of more
-- **Tranquility:** inner peace and quietness
 - **Tidiness:** cleanliness and organization
 - **Accomplishment:** working hard, being productive, solving problems
-- **Personal growth:** continual improvement in all aspects (mind/body/soul)
-- **Social:** memorable experiences, connections, relationships
+- **Personal growth:** continual improvement in all aspects- mind, body, soul
+- **Social:** memorable experiences, close connections, loving relationships
 - **Contribution & Service:** helping and being good to others
