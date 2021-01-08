@@ -1,5 +1,5 @@
-## [Happiness](/happiness.md)
+### [Happiness](/happiness.md)
 
-## [Life Skills and Virtues](/life-skills-and-virtues.md)
+### [Life Skills and Virtues](/life-skills-and-virtues.md)
 
-## [Values and Traits](/values-and-traits.md)
+### [Values and Traits](/values-and-traits.md)
