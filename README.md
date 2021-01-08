@@ -6,8 +6,8 @@
 *****
 
 ### Happiness
-- the feeling of being in a good mood, energetic and confident
- 
+- the feeling of being in a good mood, energetic, and confident
+
 
 ### Happiness Factors
 - **Health:** sleep, diet, exercise, stress management
