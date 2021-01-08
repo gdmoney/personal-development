@@ -1,3 +1,6 @@
+## WW Notes
+
+
 ### Good
 - long-term view
 - adversity, sacrifice, discipline
@@ -22,21 +25,21 @@
 - confidence is earned daily
  
  
- ### Bad
- - instant gratification
- - perpetual pleasure chasing
- - seeking external solutions to internal problems
- - external vs internal validation
- - exceed the bounds of moderation
- - victim of circumstance / victim mindset
- - lack of preparation
- - half-ass, sloppy
+### Bad
+- instant gratification
+- perpetual pleasure chasing
+- seeking external solutions to internal problems
+- external vs internal validation
+- exceed the bounds of moderation
+- victim of circumstance / victim mindset
+- lack of preparation
+- half-ass, sloppy
  
  
- ### Misc
- - assets vs liabilities
- - 90% purpose, 10% pleasure
- - broad generalizations are the epitomy of ignorance
- - we're a product of our daily choices
- - regret is your guideline
- - conscious endeavor
+### Misc
+- assets vs liabilities
+- 90% purpose, 10% pleasure
+- broad generalizations are the epitomy of ignorance
+- we're a product of our daily choices
+- regret is your guideline
+- conscious endeavor

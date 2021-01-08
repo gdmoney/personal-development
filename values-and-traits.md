@@ -1,3 +1,6 @@
+## Values and Traits
+
+
 ### Good
 - **Integrity** - do the right thing and stay true to your values
 - **Responsibility** - take ownership and be accountable for your actions

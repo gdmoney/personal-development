@@ -1,3 +1,6 @@
+## Life Skills and Virtues
+
+
 ### Life Skills
 - Critical Thinking - objectively analyze an issue before forming a judgment
 - Problem Solving

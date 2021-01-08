@@ -1,3 +1,6 @@
+## Sam Harris Notes
+
+
 ### Vocabulary
 - non sequitur - conslusion or statement that doesn't logically follow
 - equanimity - mental calmness, composure, and evenness of temper
