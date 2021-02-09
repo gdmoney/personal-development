@@ -2,7 +2,7 @@
 
 
 ### Good
-- equality of opportunity
+- equality of *opportunity*
 - encourage forward striving
 - adoption of responsibility
 - conduct yourself in a respectable manner
@@ -10,7 +10,7 @@
 
 
 ### Bad
-- equality of outcome
+- equality of *outcome*
 - feeling sorry for yourself is not going to be helpful
 - 
 
