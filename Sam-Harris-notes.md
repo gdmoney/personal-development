@@ -63,7 +63,7 @@
 - if we're ever in a position to recreate T-Rex, should we do it?
 
 
-### Guests
+### Notable Guests
 - Bret Weinstein
 - Brian Greene
 - David Deutsch
