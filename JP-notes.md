@@ -17,7 +17,7 @@
 
 ### Misc
 - differences between men and women are both cultural and biological
-- men tend to be more interested in things, women tend to be more interested in people
+- men tend to be more interested in *things*, women tend to be more interested in *people*
 - the more egalitarian the society, the bigger the personality differences between men and women
 - different participation rates in different occupations
 - you can not minimize biological differences by social engineering
