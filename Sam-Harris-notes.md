@@ -67,6 +67,7 @@
 - Bret Weinstein
 - Brian Greene
 - David Deutsch
+- Frank Wilczek
 - John McWhorter
 - Jonathan Haidt
 - Nicholas Christakis
