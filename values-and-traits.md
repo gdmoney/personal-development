@@ -2,13 +2,13 @@
 
 
 ### Good
-- **Integrity** - do the right thing and stay true to your values
-- **Responsibility** - take ownership and be accountable for your actions
-- **Honesty** - be truthful
-- **Gratitude** - be thankful and appreciative
-- **Empathy / Compassion** - be able to relate to and have concern for others
+- **Integrity** - doing the right thing and stay true to your values
+- **Responsibility** - taking ownership and being accountable for your actions
+- **Honesty** - being truthful
+- **Gratitude** - being aware of the good things in lifef and being thankful and appreciative
+- **Empathy / Compassion** - being able to relate to and have concern for others
 - **Persistence** - continuance in a course of action in spite of difficulty
-- **Curiosity** - a strong desire to know or learn something
+- **Curiosity** - desire to learn new things and have new experiences
 
 
 ### Bad
