@@ -19,5 +19,5 @@
 - Intellectual humility
 - Generosity of spirit
 - Giving people the benefit of the doubt
-- Being open-minded / not being overconfident
+- Open-mindedness / not being overconfident
 - Ability to discuss and debate ideas without taking them personally
