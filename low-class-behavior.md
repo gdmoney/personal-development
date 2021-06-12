@@ -12,9 +12,9 @@
 - interrupting or talking over people
 - not re-racking weights in the gym
 - talking or using a phone in the movie theater
-- bad table manners
+- poor table manners
 - aggressive driving/road rage
-- entitlement
+- false sense of entitlement
 - bad spelling/grammar/vocabulary
 - fast-food-heavy diet
 - hoarding
