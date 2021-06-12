@@ -9,11 +9,11 @@
 
 
 ### Happiness Factors
-- **Health:** sleep, diet, exercise, stress management
-- **Tranquility:** inner peace and equanimity
-- **Simplicity:** pursuit of less but better (as opposed to more)
-- **Tidiness:** cleanliness and organization
-- **Accomplishment:** working hard, being productive, solving problems
-- **Personal Growth:** continual improvement in all aspects of life - Mind, Body, Soul
-- **Social:** memorable experiences, close connections, loving relationships
-- **Contribution & Service:** helping and being good to others
+- **Health:**                 sleep, diet, exercise, stress management
+- **Tranquility:**            inner peace and equanimity
+- **Simplicity:**             pursuit of less but better (as opposed to more)
+- **Tidiness:**               cleanliness and organization
+- **Accomplishment:**         working hard, being productive, solving problems
+- **Personal Growth:**        continual improvement in all aspects of life - Mind, Body, Soul
+- **Social:**                 memorable experiences, close connections, loving relationships
+- **Contribution & Service:** helping and being good to others
