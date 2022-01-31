@@ -21,6 +21,7 @@
 - perniceous - having a harmful effect, especially in a gradual or subtle way
 - abstemious - not self-indulgent, especially when eating and drinking
 - apogee - the highest point in the development of something; a climax or culmination
+- anathema - something or someone that one vehemently dislikes
 
 
 ### Phrases
