@@ -24,6 +24,7 @@
 - anathema - something or someone that one vehemently dislikes
 - precipitously - very steeply
 - espouse - adopt or support (a cause, belief, or way of life)
+- repudiate - refuse to accept or be associated with; deny the truth or validity of
 
 
 ### Phrases
