@@ -19,6 +19,7 @@
 - sanguine - optimistic or positive, especially in an apparently bad situation
 - demur - raise doubts or objections or show reluctance
 - perniceous - having a harmful effect, especially in a gradual or subtle way
+- abstemious - not self-indulgent, especially when eating and drinking
 
 
 ### Phrases
