@@ -20,6 +20,7 @@
 - demur - raise doubts or objections or show reluctance
 - perniceous - having a harmful effect, especially in a gradual or subtle way
 - abstemious - not self-indulgent, especially when eating and drinking
+- apogee - the highest point in the development of something; a climax or culmination
 
 
 ### Phrases
