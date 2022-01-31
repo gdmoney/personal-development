@@ -23,6 +23,7 @@
 - apogee - the highest point in the development of something; a climax or culmination
 - anathema - something or someone that one vehemently dislikes
 - precipitously - very steeply
+- espouse - adopt or support (a cause, belief, or way of life)
 
 
 ### Phrases
