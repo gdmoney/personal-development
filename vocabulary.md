@@ -16,6 +16,7 @@
 - `equivocate    ` use ambiguous language so as to conceal the truth or avoid committing oneself; beat around the bush
 - `erudite       ` having or showing great knowledge - e.g. erudite discussion
 - `espouse       ` adopt or support (a cause, belief, or way of life)
+- `impertinent   ` not showing proper respect; rude, insolent
 - `inscrutable   ` impossible to understand or interpret
 - `non sequitur  ` conslusion or statement that doesn't logically follow
 - `parochial     ` having a limited or narrow outlook or scope
