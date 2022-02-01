@@ -1,5 +1,6 @@
 ## Low Class Behavior
 
+
 - not returning a shopping cart
 - making body noises in public
 - not picking up/cleaning up after yourself
