@@ -21,7 +21,7 @@
 - `parochial     ` having a limited or narrow outlook or scope
 - `parsimonious  ` stingy or frugal
 - `perfunctory   ` (of an action or gesture) carried out with a minimum of effort or reflection
-- `perniceous    ` having a harmful effect, especially in a gradual or subtle way
+- `pernicious    ` having a harmful effect, especially in a gradual or subtle way
 - `precipitously ` very steeply
 - `profundity    ` deep insight; great depth of knowledge or thought
 - `repudiate     ` refuse to accept or be associated with; deny the truth or validity of
