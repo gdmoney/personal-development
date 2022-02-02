@@ -20,7 +20,7 @@
 - `inscrutable   ` - impossible to understand or interpret
 - `non sequitur  ` - conslusion or statement that doesn't logically follow
 - `parochial     ` - having a limited or narrow outlook or scope
-- `parsimonious  ` - stingy or frugal
+- `parsimonious  ` - unwilling to spend money or use resources; stingy or frugal
 - `perfunctory   ` - (of an action or gesture) carried out with a minimum of effort or reflection
 - `pernicious    ` - having a harmful effect, especially in a gradual or subtle way
 - `precipitously ` - very steeply
