@@ -21,7 +21,7 @@
 - `impertinent   ` - not showing proper respect; rude, insolent
 - `incongruous   ` - not in harmony or keeping with the surrounding or other aspects of something; out of place
 - `inscrutable   ` - impossible to understand or interpret
-- `non sequitur  ` - conslusion or statement that doesn't logically follow
+- `non sequitur  ` - a conclusion or statement that does not logically follow from the previous argument or statement
 - `parochial     ` - having a limited or narrow outlook or scope
 - `parsimonious  ` - unwilling to spend money or use resources; stingy or frugal
 - `perfunctory   ` - (of an action or gesture) carried out with a minimum of effort or reflection
