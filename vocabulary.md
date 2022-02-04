@@ -2,9 +2,10 @@
 
 
 - `abstemious    ` - not self-indulgent, especially when eating and drinking
-- `ameliorate    ` - make (something bad or unsatisfactory) better; improve
+- `ameliorate    ` - make something bad or unsatisfactory better; improve
 - `anathema      ` - something or someone that one vehemently dislikes
 - `apogee        ` - the highest point in the development of something; a climax or culmination
+- `beguile       ` - charm or enchant someone, sometimes in a deceptive way
 - `bespoke       ` - custom
 - `capacious     ` - having a lot of space inside; roomy - e.g. capacious mind
 - `circumspect   ` - wary and unwilling to take risks
@@ -14,9 +15,11 @@
 - `denigrate     ` - criticize unfairly; disparage
 - `equanimity    ` - mental calmness, composure, and evenness of temper
 - `equivocate    ` - use ambiguous language so as to conceal the truth or avoid committing oneself; beat around the bush
+- `elucidate     ` - make something clear; explain
 - `erudite       ` - having or showing great knowledge - e.g. erudite discussion
-- `espouse       ` - adopt or support (a cause, belief, or way of life)
+- `espouse       ` - adopt or support a cause, belief, or way of life
 - `impertinent   ` - not showing proper respect; rude, insolent
+- `incongruous   ` - not in harmony or keeping with the surrounding or other aspects of something; out of place
 - `inscrutable   ` - impossible to understand or interpret
 - `non sequitur  ` - conslusion or statement that doesn't logically follow
 - `parochial     ` - having a limited or narrow outlook or scope
@@ -27,5 +30,7 @@
 - `profundity    ` - deep insight; great depth of knowledge or thought
 - `repudiate     ` - refuse to accept or be associated with; deny the truth or validity of
 - `sanguine      ` - optimistic or positive, especially in an apparently bad situation
+- `undulation    ` - the action of moving smoothly up and down
 - `vacuous       ` - having or showing a lack of thought or intelligence - e.g. vacuous claim
+- `valediction   ` - the action of saying farewell; goodbye
 - `vaunted       ` - praised or boasted about, especially in an excessive way
