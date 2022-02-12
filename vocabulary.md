@@ -5,6 +5,7 @@
 - `ameliorate    ` - make something bad or unsatisfactory better; improve
 - `anathema      ` - something or someone that one vehemently dislikes
 - `apogee        ` - the highest point in the development of something; a climax or culmination
+- `beatific      ` - blissfully happy; serene
 - `beguile       ` - charm or enchant someone, sometimes in a deceptive way
 - `bespoke       ` - custom
 - `capacious     ` - having a lot of space inside; roomy - e.g. capacious mind
@@ -13,6 +14,7 @@
 - `conflate      ` - combine two or more ideas into one
 - `demur         ` - raise doubts or objections or show reluctance
 - `denigrate     ` - criticize unfairly; disparage
+- `diaphanous    ` - light, delicate, and translucent
 - `equanimity    ` - mental calmness, composure, and evenness of temper
 - `equivocate    ` - use ambiguous language so as to conceal the truth or avoid committing oneself; beat around the bush
 - `elucidate     ` - make something clear; explain
