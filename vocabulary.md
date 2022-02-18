@@ -21,6 +21,7 @@
 - `erudite       ` - having or showing great knowledge - e.g. erudite discussion
 - `espouse       ` - adopt or support a cause, belief, or way of life
 - `impertinent   ` - not showing proper respect; rude, insolent
+- `incandescent  ` - full of strong emotion; passionate
 - `incongruous   ` - not in harmony or keeping with the surrounding or other aspects of something; out of place
 - `inscrutable   ` - impossible to understand or interpret
 - `non sequitur  ` - a conclusion or statement that does not logically follow from the previous argument or statement
