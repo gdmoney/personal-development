@@ -15,6 +15,7 @@
 - `demur         ` - raise doubts or objections or show reluctance
 - `denigrate     ` - criticize unfairly; disparage
 - `diaphanous    ` - light, delicate, and translucent
+- `edifice       ` - a complex system of beliefs
 - `equanimity    ` - mental calmness, composure, and evenness of temper
 - `equivocate    ` - use ambiguous language so as to conceal the truth or avoid committing oneself; beat around the bush
 - `elucidate     ` - make something clear; explain
