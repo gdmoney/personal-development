@@ -21,6 +21,7 @@
 - `elucidate     ` - make something clear; explain
 - `erudite       ` - having or showing great knowledge - e.g. erudite discussion
 - `espouse       ` - adopt or support a cause, belief, or way of life
+- `evanescent    ` - soon passing out of sight, memory, or existence; quickly fading or disappearing
 - `iconoclastic  ` - characterized by attack on cherished beliefs or institutions
 - `impertinent   ` - not showing proper respect; rude, insolent
 - `incandescent  ` - full of strong emotion; passionate
