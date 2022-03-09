@@ -8,6 +8,7 @@
 - `beatific      ` - blissfully happy; serene
 - `beguile       ` - charm or enchant someone, sometimes in a deceptive way
 - `bespoke       ` - custom
+- `cantankerous  ` - bad-tempered, argumentative, and uncooperative
 - `capacious     ` - having a lot of space inside; roomy - e.g. capacious mind
 - `circumspect   ` - wary and unwilling to take risks
 - `confabulate   ` - fabricate imaginary experiences as compensation for loss of memory
