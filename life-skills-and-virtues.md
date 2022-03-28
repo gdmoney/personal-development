@@ -2,14 +2,14 @@
 
 
 ### Life Skills
-- **Critical Thinking** - objectively analyze an issue before forming a judgment
-- **Problem Solving**
-- **Public Speaking**
-- **Long-term Thinking (compounding)**
+- **Critical thinking** - objectively analyze an issue before forming a judgment
+- **Problem solving**
+- **Public speaking**
+- **Long-term thinking (compounding)**
 - **Leadership**
 - **Conversation**
-- **Business Writing**
-- **Self-Reflection, Self-Awareness, Mindfulness**
+- **Business writing**
+- **Self-reflection, Self-awareness, Mindfulness**
 - **Cooperation / Negotiation** - work together toward a common goal
 - **Conflict Resolution** - find a peaceful solution to a disagreement
 

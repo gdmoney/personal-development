@@ -13,8 +13,8 @@
 
 ### Bad
 - **Exaggerating / Catastrophizing** - thinking that something is worse than it really is
-- **Focusing on the Bad / Negative Filtering** - seeing only the bad parts of things, instead of both positive and negative
-- **All-or-Nothing thinking** - seeing things as completely one way or the other
+- **Focusing on the bad / Negative filtering** - seeing only the bad parts of things, instead of both positive and negative
+- **All-or-nothing thinking** - seeing things as completely one way or the other
 - **Labeling** - thinking that because one thing is bad, all similar things are bad
 - **Jumping to conclusions** - guessing that something is bad without really knowing
 - **Blaming** - ourselves or others unnecessarily
