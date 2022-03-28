@@ -12,7 +12,7 @@
 - not picking up after your dog
 - interrupting or talking over people
 - not re-racking weights in the gym
-- talking or using a phone in the movie theater
+- using a phone in the movie theater
 - poor table manners
 - aggressive driving/road rage
 - false sense of entitlement
