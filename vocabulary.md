@@ -23,12 +23,15 @@
 - `erudite       ` - having or showing great knowledge - e.g. erudite discussion
 - `espouse       ` - adopt or support a cause, belief, or way of life
 - `evanescent    ` - soon passing out of sight, memory, or existence; quickly fading or disappearing
+- `fatuous       ` - silly and pointless
 - `iconoclastic  ` - characterized by attack on cherished beliefs or institutions
 - `impertinent   ` - not showing proper respect; rude, insolent
 - `incandescent  ` - full of strong emotion; passionate
 - `incongruous   ` - not in harmony or keeping with the surrounding or other aspects of something; out of place
 - `inscrutable   ` - impossible to understand or interpret
+- `invidious     ` - (of an action or situation) to arouse or incur resentment or anger in others
 - `non sequitur  ` - a conclusion or statement that does not logically follow from the previous argument or statement
+- `obeisance     ` - a gesture expressing deferential respect, such as a bow or curtsy
 - `parochial     ` - having a limited or narrow outlook or scope
 - `parsimonious  ` - unwilling to spend money or use resources; stingy or frugal
 - `perfunctory   ` - (of an action or gesture) carried out with a minimum of effort or reflection
