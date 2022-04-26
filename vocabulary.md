@@ -2,6 +2,7 @@
 
 
 - `abstemious    ` - not self-indulgent, especially when eating and drinking
+- `admonishment  ` - a firm warning or reprimand
 - `ameliorate    ` - make something bad or unsatisfactory better; improve
 - `anathema      ` - something or someone that one vehemently dislikes
 - `apogee        ` - the highest point in the development of something; a climax or culmination
