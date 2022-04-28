@@ -3,6 +3,7 @@
 
 - `abstemious    ` - not self-indulgent, especially when eating and drinking
 - `admonishment  ` - a firm warning or reprimand
+- `affectation   ` - behavior, speech, or writing that is artificial and designed to impress
 - `ameliorate    ` - make something bad or unsatisfactory better; improve
 - `anathema      ` - something or someone that one vehemently dislikes
 - `apogee        ` - the highest point in the development of something; a climax or culmination
@@ -13,6 +14,7 @@
 - `capacious     ` - having a lot of space inside; roomy - e.g. capacious mind
 - `circumspect   ` - wary and unwilling to take risks
 - `confabulate   ` - fabricate imaginary experiences as compensation for loss of memory
+- `countenance   ` - a person's face or facial expression; support
 - `conflate      ` - combine two or more ideas into one
 - `demur         ` - raise doubts or objections or show reluctance
 - `denigrate     ` - criticize unfairly; disparage
@@ -45,3 +47,4 @@
 - `vacuous       ` - having or showing a lack of thought or intelligence - e.g. vacuous claim
 - `valediction   ` - the action of saying farewell; goodbye
 - `vaunted       ` - praised or boasted about, especially in an excessive way
+- `veridical     ` - truthful; coinciding with reality
