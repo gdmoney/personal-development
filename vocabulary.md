@@ -43,6 +43,7 @@
 - `profundity    ` - deep insight; great depth of knowledge or thought
 - `repudiate     ` - refuse to accept or be associated with; deny the truth or validity of
 - `sanguine      ` - optimistic or positive, especially in an apparently bad situation
+- `simulacrum    ` - an image or representation of someone or something; an unsatisfactory imitation or substitute
 - `undulation    ` - the action of moving smoothly up and down
 - `vacuous       ` - having or showing a lack of thought or intelligence - e.g. vacuous claim
 - `valediction   ` - the action of saying farewell; goodbye
