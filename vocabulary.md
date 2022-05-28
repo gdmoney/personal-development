@@ -41,6 +41,7 @@
 - `pernicious    ` - having a harmful effect, especially in a gradual or subtle way
 - `precipitously ` - very steeply
 - `profundity    ` - deep insight; great depth of knowledge or thought
+- `putative      ` - generally considered or reputed to be
 - `repudiate     ` - refuse to accept or be associated with; deny the truth or validity of
 - `sanguine      ` - optimistic or positive, especially in an apparently bad situation
 - `simulacrum    ` - an image or representation of someone or something; an unsatisfactory imitation or substitute
