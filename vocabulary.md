@@ -9,7 +9,7 @@
 - `apogee        ` - the highest point in the development of something; a climax or culmination
 - `beatific      ` - blissfully happy; serene
 - `beguile       ` - charm or enchant someone, sometimes in a deceptive way
-- `bespoke       ` - custom
+- `callow        ` - (of a young person) inexperienced and immature
 - `cantankerous  ` - bad-tempered, argumentative, and uncooperative
 - `capacious     ` - having a lot of space inside; roomy - e.g. capacious mind
 - `circumspect   ` - wary and unwilling to take risks
@@ -33,6 +33,7 @@
 - `incongruous   ` - not in harmony or keeping with the surrounding or other aspects of something; out of place
 - `inscrutable   ` - impossible to understand or interpret
 - `invidious     ` - (of an action or situation) to arouse or incur resentment or anger in others
+- `mendacity     ` - untruthfulness
 - `non sequitur  ` - a conclusion or statement that does not logically follow from the previous argument or statement
 - `obeisance     ` - a gesture expressing deferential respect, such as a bow or curtsy
 - `parochial     ` - having a limited or narrow outlook or scope
