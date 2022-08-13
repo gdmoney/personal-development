@@ -14,7 +14,7 @@
 - not re-racking weights in the gym
 - using a phone in the movie theater
 - poor table manners
-- aggressive driving/road rage
+- aggressive driving / road rage
 - false sense of entitlement
 - bad spelling/grammar/vocabulary
 - fast-food-heavy diet
