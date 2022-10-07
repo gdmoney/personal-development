@@ -18,3 +18,4 @@
 - **Personal Growth** - continual improvement in all aspects of life - Mind, Body, Soul
 - **Social** - memorable experiences, close connections, loving relationships
 - **Contribution & Service** - helping and being good to others
+- **Curiosity** - discovering new and interesting things and ideas
