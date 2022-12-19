@@ -44,6 +44,7 @@
 ### Notable Guests
 - Bret Weinstein
 - Brian Greene
+- Cal Newport
 - David Deutsch
 - Frank Wilczek
 - John McWhorter
