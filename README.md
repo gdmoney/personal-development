@@ -11,7 +11,7 @@
 ### Happiness Factors
 - **Health** - sleep, diet, exercise, stress management
 - **Tranquility** - inner peace and equanimity
-- **Simplicity** - pursuit of less but better (as opposed to more)
+- **Simplicity** - pursuit of less, but better (as opposed to more)
 - **Tidiness** - cleanliness and organization
 - **Accomplishment** - being productive, solving problems, achieving goals
 - **Personal Growth** - continual improvement in all aspects of life - Mind, Body, Soul
